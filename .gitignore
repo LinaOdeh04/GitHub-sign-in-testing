@@ -1,5 +1,0 @@
-target/
-.idea/
-*.iml
-config.properties
-src/test/resources/config.properties
