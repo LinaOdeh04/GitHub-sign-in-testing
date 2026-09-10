@@ -1,0 +1,5 @@
+# Maven
+target/
+
+# Configuration / credentials
+src/test/resources/config.properties
